@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+*Changed
+  * Updated examples for `terra-popup`.
+
 * Changed
   * Updated examples for `terra-slide-panel-manager`.
 
