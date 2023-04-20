@@ -2,10 +2,8 @@
 
 ## Unreleased
 
-*Changed
-  * Updated examples for `terra-popup`.
-
 * Changed
+  * Updated examples for `terra-popup`.
   * Updated examples for `terra-slide-panel-manager`.
 
 ## 1.19.0 - (April 12, 2023)
